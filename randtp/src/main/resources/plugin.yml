@@ -1,0 +1,9 @@
+name: RandomTP
+version: '${project.version}'
+main: com.hheylau.randtp.RandTP
+api-version: 1.19
+description: random tp by typing cmd
+commands:
+  rtp:
+    usage: /rtp [playerName]
+    description: Random TP

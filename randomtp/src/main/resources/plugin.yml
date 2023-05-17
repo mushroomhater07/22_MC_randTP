@@ -1,0 +1,9 @@
+name: RandomTP
+version: '${project.version}'
+main: com.hheylau.randomtp.RandomTP
+api-version: 1.19
+authors: [ hheylau ]
+description: A random tp plugin
+commands:
+  on9:
+    usage: /<command> <player> [yes|no]

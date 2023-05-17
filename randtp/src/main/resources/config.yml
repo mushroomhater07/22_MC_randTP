@@ -1,0 +1,4 @@
+# set Distance as integer
+Distance: 500
+# cooldown
+CoolDown: 5
